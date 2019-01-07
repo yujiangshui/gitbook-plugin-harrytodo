@@ -1,6 +1,6 @@
 {
-  "name": "gitbook-plugin-todo",
-  "version": "0.1.3",
+  "name": "gitbook-plugin-harrytodo",
+  "version": "0.1.0",
   "description": "A plugin to embed readonly todo list in your Gitbook",
   "main": "index.js",
   "keywords": [
@@ -23,10 +23,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/LingyuCoder/gitbook-plugin-todo.git"
+    "url": "https://github.com/yujiangshui/gitbook-plugin-harrytodo.git"
   },
   "bugs": {
-    "url": "https://github.com/LingyuCoder/gitbook-plugin-todo/issues"
+    "url": "https://github.com/yujiangshui/gitbook-plugin-harrytodo/issues"
   },
-  "homepage": "https://github.com/LingyuCoder/gitbook-plugin-todo"
+  "homepage": "https://github.com/yujiangshui/gitbook-plugin-harrytodo"
 }

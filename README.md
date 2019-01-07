@@ -1,4 +1,6 @@
-# gitbook-plugin-todo
+# gitbook-plugin-harrytodo
+
+**Compare to the original plugin: support html content when replace the todo content.**
 
 [![Build Status](https://travis-ci.org/LingyuCoder/gitbook-plugin-todo.png)](https://travis-ci.org/LingyuCoder/gitbook-plugin-todo)
 [![Dependency Status](https://david-dm.org/LingyuCoder/gitbook-plugin-todo.svg)](https://david-dm.org/LingyuCoder/gitbook-plugin-todo)
@@ -15,7 +17,7 @@
 ## Install
 
 ```shell
-$ npm install --save gitbook-plugin-todo
+$ npm install --save gitbook-plugin-harrytodo
 ```
 
 ## Usage
