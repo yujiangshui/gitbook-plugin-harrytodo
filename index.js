@@ -3,8 +3,8 @@ var cheerio = require('cheerio');
 var _ = require('underscore');
 var re = /^\s*\[[x ]\]\s*/;
 var replacements = {
-  '[ ]': '<input type="checkbox" disabled="disabled"></i>',
-  '[x]': '<input type="checkbox" disabled="disabled" checked="checked"></i>',
+  '[ ]': '<input type="checkbox" disabled="disabled"></i> ',
+  '[x]': '<input type="checkbox" disabled="disabled" checked="checked"></i> ',
 };
 
 module.exports = {
